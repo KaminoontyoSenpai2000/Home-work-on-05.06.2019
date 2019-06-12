@@ -14,7 +14,6 @@
 
 .col4 {
 	background-color: rgb(247,247,247);
-
 }
 
 .col5 {
@@ -44,7 +43,6 @@
 	margin: 0 3% 0 3%;
 	list-style-type: none;
 }
-
 
 .shadow {
 	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
@@ -98,10 +96,9 @@
 	margin-bottom: 2%;
 }
 
-
-
 .footer-h2 {
-	margin: 2% 0 2% 0;
+	margin-bottom: 0;
+	padding: 2% 0 2% 0;
 }
 
 .clear-both-p {
