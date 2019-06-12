@@ -1,3 +1,3 @@
 # Home-work-on-05.06.2019
-Home work by Velichko Ivan
+I fixed the bugs in my home work! You see my home work with some changes)
 # Our journey continues!
